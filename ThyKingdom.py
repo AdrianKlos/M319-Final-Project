@@ -188,7 +188,7 @@ def makeCharacters():
                        # the fifth number is for positive consequence of first option of second dialogue
                        # the sixth number is for negative consequence of first option of second dialogue
                        # the seventh number is for positive consequence of second option of second dialogue
-                       # the eith number is for negative consequence of second option of second dialogue
+                       # the eighth number is for negative consequence of second option of second dialogue
 
 
        name=names[x]
